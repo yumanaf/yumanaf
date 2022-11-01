@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yumanaf
-- 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on group projects 
 
